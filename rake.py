@@ -5,7 +5,7 @@
 # In M. W. Berry and J. Kogan (Eds.), Text Mining: Applications and Theory.unknown: John Wiley and Sons, Ltd.
 #
 # NOTE: The original code (from https://github.com/aneesha/RAKE)
-# has been extended by a_medelyan (zelandiya)
+# NOTE: Extended by a_medelyan (zelandiya) for Spanish
 # with a set of heuristics to decide whether a phrase is an acceptable candidate
 # as well as the ability to set frequency and phrase length parameters
 # important when dealing with longer documents
